@@ -1,0 +1,11 @@
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\bin\Release\Projeto.Repository.dll
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\bin\Release\Projeto.Repository.pdb
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\bin\Release\Dapper.dll
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\bin\Release\Projeto.Entities.dll
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\bin\Release\Projeto.Entities.pdb
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\bin\Release\Dapper.xml
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\obj\Release\Projeto.Repository.csprojAssemblyReference.cache
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\obj\Release\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\obj\Release\Projeto.Repository.csproj.CopyComplete
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\obj\Release\Projeto.Repository.dll
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Repository\obj\Release\Projeto.Repository.pdb

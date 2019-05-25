@@ -1,0 +1,2 @@
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Coti225-Maq01\Downloads\Aula13\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CoreCompileInputs.cache
